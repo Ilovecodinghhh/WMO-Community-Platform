@@ -1,0 +1,8 @@
+As defined in [Rules of Procedure for Technical Commissions](https://library.wmo.int/doc_num.php?explnum_id=9952) the Expert Network is:
+
+1. A data base for a common Expert Network should be established and maintained by the Secretariat.
+2. Technical experts nominated in accordance with rule 4.3 above should be included in the Expert Network. The Secretariat should check and confirm that the qualifications and competence of the nominated experts meet the requirements announced to Members and international organizations. In case the qualifications or competence do not meet the requirements the nominating Permanent Representative or international organization should be informed accordingly.
+3. Experts in the Expert Network should be grouped in communities of practice in accordance with their qualifications and competence.
+4. Experts in the Expert Network may be selected to work on standing committees, study groups and expert teams. Such a selection should be notified to the respective Permanent Representative, Hydrological Adviser (if the work relates to hydrology) or head of the international organization to which the expert belongs.
+5. Experts in the Expert Network may be requested to contribute to the work of a standing committee, study group and expert team as reviewers, or in another capacity. Their contribution to the work of the respective subsidiary body should be appropriately acknowledged.
+6. The Management Group of the commission should periodically review the status of its supporting Expert Network. In the case that experts have been inactive for more than 12 months, such experts should be removed from the Expert Network.

@@ -1,0 +1,1 @@
+The WMO Experts Database is a part of the [WMO Community Platform] and acts as an interactive directory for professionals in the fields of weather, climate, and water. This self-service system allows members to keep their expert profiles updated. Users can review and edit their own information, making it a dynamic and current resource for the community.
